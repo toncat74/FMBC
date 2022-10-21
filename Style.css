@@ -1,0 +1,134 @@
+html{
+	color: rgb (218, 183,104)
+	background-color: Hex;
+	font-family: Verdan, Geneva, san-serif;
+}
+style{
+	address, article, aside, blockqoute, body, cite div, dl, dt,
+	dd, em, figcaption, figure, footer, h1, h2, h3, h4, h5, h6,
+header, html, img,li, main, nav, ol, p, section, span, ul
+ background: transparent;
+ font-size: 100;
+ margin:0;
+ padding:0;
+ vertical-align: baseline
+
+}
+ nav ul{
+	list-style: none; 
+	list-style-image:none;
+}
+nav{
+	text-decoration:none;
+}
+body{
+	line-height 1:
+}
+body{
+ color:rgb (91,91,91);	
+background-color: ivory;	
+font- family: Verdana, Geneva, san-serif;
+}
+@font-face{
+background-color:hsl(27, 72%, 72%);
+}
+body{
+	max-width: 960;
+	min-height: 640;
+	width: 95%;
+}
+body> header>img{
+	display:block;
+	width; 100;
+}
+
+h2 
+color: white;
+background-color; rgb ( 222, 128, 60);
+{
+  color: white;
+  background-color: rgb( 235, 177, 131);
+} 
+ p{
+	color: rgb (232, 121, 50);
+	color: hsla (80% 55% 0.75);
+ }
+ body{ 
+ font-size: 1.2em;
+ font-size: 1.5;
+  font-family: Quickand, Verdana, Geneva,sans-serif;
+  letter-spacing: 0.0em;
+ }
+  aside blockqoute{
+	 color: rgb(232, 165, 116);
+ }
+  aside blockqoute{
+ 	color: rgb (232, 165, 116);
+    margin: 20px 5px;
+	quotes: "\201C" "\201D";
+ }
+  aside blockqoute:: before{
+	 content: open-quote:
+	 font-family: 'Times New Roman', Time, serif;
+	 font-size: 1.6em;
+	 font-weight:bold 
+ }
+   aside blockqoute:: after 
+   content: close-quote
+   font-family: 'Times New Roman', Time, serif;
+   font-size: 1.6em;
+   font-weight: bold 
+  
+ nav> ul height: 2em 
+ list-style type none;
+ padding-life : 15px;
+ 
+ }
+ 
+ nav > ul > 1: newgroup{
+	 margin-top: 20px;
+ }
+ nav> ul >li aivisted, nav> ul li a:link{
+	 color: (151,151, 151);
+	 text decoration:none;
+ }
+ nav > ul{
+	 line-height: 2em;
+	 list-style-type: none;
+	 padding-left: 5px; 
+ }
+ nav> ul> li,newgroup{
+	 margin-top:20px;
+ }
+	 
+ magin: top right bottom left;
+ 
+ nav> ul{
+	 line-height: 2em;
+	 list-style-type: none;
+	 padding-left: 5px;
+ }
+ body> footer address{
+	 background-color: rgb (222, 128, 60);
+	 color: rgba  (255, 255, 255, 0.7)
+	 font: normal small-cap  hold 0.9em /3em 
+	 Quickand, Verdana, Geneva, sans-serif;
+	 text-algin: center
+ }
+ article#Friendship h1{
+	 color: white;
+	 background-color: rgb (222, 128, 60);
+ }
+ article#Friendship h2{
+	 color: white;
+	 background-color: rgb (235, 177, 131);
+ }
+ article.syllabus ol{
+	 list-style-type: upper-roman;
+ }
+ article.syllabus ol ol{
+	 list-style-type: alpha 
+ }
+ article.syllabus ol ol ol{
+	 list-style-type: decimal;
+ }
